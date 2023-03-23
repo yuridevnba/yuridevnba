@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br>
-Olá, sou desenvolvedor de software com ênfase em back-end e entusiasta de projetos fullstack. Possuo sólidos conhecimentos em Java , além de construir uma forte experiência nas linguagens JavaScript e Python, juntamente com os frameworks: ReactJS  | Spring Boot
+Olá, sou desenvolvedor de software com ênfase em back-end e entusiasta de projetos fullstack. Possuo sólidos conhecimentos em Java , além de construir uma forte experiência nas linguagens Java e JavaScript, juntamente com os frameworks:NodeJs| Spring Boot
 
  
 
